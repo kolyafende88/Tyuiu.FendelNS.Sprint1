@@ -13,7 +13,7 @@ namespace Tyuiu.FendelNS.Sprint1.Task7.V10
             Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #10                                                             *");
-            Console.WriteLine("* Выполнил: Фендель Николай Сергеевич | СМАРТб-24-1                        *");
+            Console.WriteLine("* Выполнил: Фендель Николай Сергеевич | СМАРТб-24-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая вычисляет математическое выражение          *");
